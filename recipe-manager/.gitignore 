@@ -1,0 +1,24 @@
+# Кэш и скомпилированные файлы Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Виртуальное окружение
+venv/
+.venv/
+env/
+
+# Кэш pytest
+.pytest_cache/
+
+# Файлы IDE
+.idea/
+.vscode/
+
+# Системные файлы macOS
+.DS_Store
+
+# Пакеты и метаданные
+*.egg-info/
+dist/
+build/
